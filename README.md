@@ -1,6 +1,6 @@
 👋 Hi, I’m @Jaeework<br/><br/>
 <b>☕ I used to be a <img src="https://img.shields.io/badge/Starbucks-006241?style=flat&logo=Starbucks&logoColor=white"/> Barista in London 🇬🇧</b></br>
-<b>💻 Now, I am currently working on Web Programming 👩‍💻 🇰🇷</b>
+<b>💻 Now, I am currently working as a Salesforce platform Developer in Seoul 👩‍💻 🇰🇷</b>
 
 <br>
 <h3><b>Tech Stack</b></h3>
